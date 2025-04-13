@@ -22,6 +22,8 @@ MeronPan Time is a relaxing 3D dynamic wallpaper that creates a soothing atmosph
 
 ## 🔧 Technical Details
 
+You will find here the source code for the project and the assets. The app can be downloaded from [itch.io](https://greencube1.itch.io/meronpan-time) 🌍.
+
 ### 📝 C# Scripts
 
 The project includes two main C# scripts that handle the core functionality:
